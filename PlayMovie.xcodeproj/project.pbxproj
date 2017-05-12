@@ -13,6 +13,19 @@
 		F53DC7D21EC16B3A00D9C87F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7D01EC16B3A00D9C87F /* Main.storyboard */; };
 		F53DC7D41EC16B3A00D9C87F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7D31EC16B3A00D9C87F /* Assets.xcassets */; };
 		F53DC7D71EC16B3A00D9C87F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7D51EC16B3A00D9C87F /* LaunchScreen.storyboard */; };
+		F53DC7E51EC1906100D9C87F /* JPAVPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = F53DC7E41EC1906100D9C87F /* JPAVPlayerView.m */; };
+		F53DC7F01EC1982200D9C87F /* player_fullScreen_iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7E71EC1982200D9C87F /* player_fullScreen_iphone@2x.png */; };
+		F53DC7F11EC1982200D9C87F /* player_fullScreen_iphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7E81EC1982200D9C87F /* player_fullScreen_iphone@3x.png */; };
+		F53DC7F21EC1982200D9C87F /* player_pause_iphone_fullscreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7E91EC1982200D9C87F /* player_pause_iphone_fullscreen@2x.png */; };
+		F53DC7F31EC1982200D9C87F /* player_pause_iphone_fullscreen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7EA1EC1982200D9C87F /* player_pause_iphone_fullscreen@3x.png */; };
+		F53DC7F41EC1982200D9C87F /* player_play_bottom_window@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7EB1EC1982200D9C87F /* player_play_bottom_window@2x.png */; };
+		F53DC7F51EC1982200D9C87F /* player_play_bottom_window@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7EC1EC1982200D9C87F /* player_play_bottom_window@3x.png */; };
+		F53DC7F61EC1982200D9C87F /* player_window_iphone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7ED1EC1982200D9C87F /* player_window_iphone@2x.png */; };
+		F53DC7F71EC1982200D9C87F /* player_window_iphone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7EE1EC1982200D9C87F /* player_window_iphone@3x.png */; };
+		F53DC7F81EC1982200D9C87F /* Stop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7EF1EC1982200D9C87F /* Stop@2x.png */; };
+		F53DC7FA1EC19E6200D9C87F /* icmpv_thumb_light@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7F91EC19E6200D9C87F /* icmpv_thumb_light@2x.png */; };
+		F53DC8001EC1B26400D9C87F /* logo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7FF1EC1B26400D9C87F /* logo.mp4 */; };
+		F53DC8081EC2FC9800D9C87F /* 四大装逼.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +39,20 @@
 		F53DC7D31EC16B3A00D9C87F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F53DC7D61EC16B3A00D9C87F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F53DC7D81EC16B3A00D9C87F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F53DC7E31EC1906100D9C87F /* JPAVPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JPAVPlayerView.h; sourceTree = "<group>"; };
+		F53DC7E41EC1906100D9C87F /* JPAVPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JPAVPlayerView.m; sourceTree = "<group>"; };
+		F53DC7E71EC1982200D9C87F /* player_fullScreen_iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_fullScreen_iphone@2x.png"; sourceTree = "<group>"; };
+		F53DC7E81EC1982200D9C87F /* player_fullScreen_iphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_fullScreen_iphone@3x.png"; sourceTree = "<group>"; };
+		F53DC7E91EC1982200D9C87F /* player_pause_iphone_fullscreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_pause_iphone_fullscreen@2x.png"; sourceTree = "<group>"; };
+		F53DC7EA1EC1982200D9C87F /* player_pause_iphone_fullscreen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_pause_iphone_fullscreen@3x.png"; sourceTree = "<group>"; };
+		F53DC7EB1EC1982200D9C87F /* player_play_bottom_window@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_play_bottom_window@2x.png"; sourceTree = "<group>"; };
+		F53DC7EC1EC1982200D9C87F /* player_play_bottom_window@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_play_bottom_window@3x.png"; sourceTree = "<group>"; };
+		F53DC7ED1EC1982200D9C87F /* player_window_iphone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_window_iphone@2x.png"; sourceTree = "<group>"; };
+		F53DC7EE1EC1982200D9C87F /* player_window_iphone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player_window_iphone@3x.png"; sourceTree = "<group>"; };
+		F53DC7EF1EC1982200D9C87F /* Stop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stop@2x.png"; sourceTree = "<group>"; };
+		F53DC7F91EC19E6200D9C87F /* icmpv_thumb_light@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icmpv_thumb_light@2x.png"; sourceTree = "<group>"; };
+		F53DC7FF1EC1B26400D9C87F /* logo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = logo.mp4; sourceTree = "<group>"; };
+		F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "四大装逼.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +85,7 @@
 		F53DC7C61EC16B3A00D9C87F /* PlayMovie */ = {
 			isa = PBXGroup;
 			children = (
+				F53DC7E21EC1900F00D9C87F /* JPAVPlayerView */,
 				F53DC7CA1EC16B3A00D9C87F /* AppDelegate.h */,
 				F53DC7CB1EC16B3A00D9C87F /* AppDelegate.m */,
 				F53DC7CD1EC16B3A00D9C87F /* ViewController.h */,
@@ -77,6 +105,35 @@
 				F53DC7C81EC16B3A00D9C87F /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F53DC7E21EC1900F00D9C87F /* JPAVPlayerView */ = {
+			isa = PBXGroup;
+			children = (
+				F53DC7E61EC1982200D9C87F /* Images */,
+				F53DC7E31EC1906100D9C87F /* JPAVPlayerView.h */,
+				F53DC7E41EC1906100D9C87F /* JPAVPlayerView.m */,
+			);
+			path = JPAVPlayerView;
+			sourceTree = "<group>";
+		};
+		F53DC7E61EC1982200D9C87F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */,
+				F53DC7FF1EC1B26400D9C87F /* logo.mp4 */,
+				F53DC7E71EC1982200D9C87F /* player_fullScreen_iphone@2x.png */,
+				F53DC7E81EC1982200D9C87F /* player_fullScreen_iphone@3x.png */,
+				F53DC7E91EC1982200D9C87F /* player_pause_iphone_fullscreen@2x.png */,
+				F53DC7EA1EC1982200D9C87F /* player_pause_iphone_fullscreen@3x.png */,
+				F53DC7EB1EC1982200D9C87F /* player_play_bottom_window@2x.png */,
+				F53DC7EC1EC1982200D9C87F /* player_play_bottom_window@3x.png */,
+				F53DC7ED1EC1982200D9C87F /* player_window_iphone@2x.png */,
+				F53DC7EE1EC1982200D9C87F /* player_window_iphone@3x.png */,
+				F53DC7EF1EC1982200D9C87F /* Stop@2x.png */,
+				F53DC7F91EC19E6200D9C87F /* icmpv_thumb_light@2x.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -110,6 +167,7 @@
 				TargetAttributes = {
 					F53DC7C31EC16B3A00D9C87F = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = U37X4645WQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -137,8 +195,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F53DC7F11EC1982200D9C87F /* player_fullScreen_iphone@3x.png in Resources */,
 				F53DC7D71EC16B3A00D9C87F /* LaunchScreen.storyboard in Resources */,
+				F53DC7F61EC1982200D9C87F /* player_window_iphone@2x.png in Resources */,
+				F53DC7F01EC1982200D9C87F /* player_fullScreen_iphone@2x.png in Resources */,
 				F53DC7D41EC16B3A00D9C87F /* Assets.xcassets in Resources */,
+				F53DC7F51EC1982200D9C87F /* player_play_bottom_window@3x.png in Resources */,
+				F53DC7F41EC1982200D9C87F /* player_play_bottom_window@2x.png in Resources */,
+				F53DC7F71EC1982200D9C87F /* player_window_iphone@3x.png in Resources */,
+				F53DC7F31EC1982200D9C87F /* player_pause_iphone_fullscreen@3x.png in Resources */,
+				F53DC7F21EC1982200D9C87F /* player_pause_iphone_fullscreen@2x.png in Resources */,
+				F53DC8081EC2FC9800D9C87F /* 四大装逼.mp4 in Resources */,
+				F53DC7F81EC1982200D9C87F /* Stop@2x.png in Resources */,
+				F53DC7FA1EC19E6200D9C87F /* icmpv_thumb_light@2x.png in Resources */,
+				F53DC8001EC1B26400D9C87F /* logo.mp4 in Resources */,
 				F53DC7D21EC16B3A00D9C87F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F53DC7E51EC1906100D9C87F /* JPAVPlayerView.m in Sources */,
 				F53DC7CF1EC16B3A00D9C87F /* ViewController.m in Sources */,
 				F53DC7CC1EC16B3A00D9C87F /* AppDelegate.m in Sources */,
 				F53DC7C91EC16B3A00D9C87F /* main.m in Sources */,
@@ -274,10 +345,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U37X4645WQ;
 				INFOPLIST_FILE = PlayMovie/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.djp.PlayMovie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -285,10 +358,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = U37X4645WQ;
 				INFOPLIST_FILE = PlayMovie/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.djp.PlayMovie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -311,6 +386,7 @@
 				F53DC7DD1EC16B3A00D9C87F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
