@@ -19,13 +19,14 @@
 + (instancetype)getPlayerView;
 
 /**
- 更换视频源
-
- @param newUrl 新的视频的地址
+ 传入播放源
+ 
+ @param newUrl 本地或者网络URL
+ @param tipTitle 标题
  */
 - (void)updatePlayWithNewUrl:(NSURL *)newUrl tipTitle:(NSString *)tipTitle;
 
-/** superViewController */
+/** superViewController 预留如果有跳转可以传入跳转使用 */
 @property(nonatomic,strong) UIViewController *superViewController;
 
 @end

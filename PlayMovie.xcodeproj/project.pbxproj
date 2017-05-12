@@ -26,6 +26,7 @@
 		F53DC7FA1EC19E6200D9C87F /* icmpv_thumb_light@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7F91EC19E6200D9C87F /* icmpv_thumb_light@2x.png */; };
 		F53DC8001EC1B26400D9C87F /* logo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F53DC7FF1EC1B26400D9C87F /* logo.mp4 */; };
 		F53DC8081EC2FC9800D9C87F /* 四大装逼.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */; };
+		F5F8B54F1EC59708000CC225 /* 视频播放.gif in Resources */ = {isa = PBXBuildFile; fileRef = F5F8B54E1EC59708000CC225 /* 视频播放.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		F53DC7F91EC19E6200D9C87F /* icmpv_thumb_light@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icmpv_thumb_light@2x.png"; sourceTree = "<group>"; };
 		F53DC7FF1EC1B26400D9C87F /* logo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = logo.mp4; sourceTree = "<group>"; };
 		F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "四大装逼.mp4"; sourceTree = "<group>"; };
+		F5F8B54E1EC59708000CC225 /* 视频播放.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "视频播放.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		F53DC7E61EC1982200D9C87F /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				F5F8B54E1EC59708000CC225 /* 视频播放.gif */,
 				F53DC8071EC2FC9800D9C87F /* 四大装逼.mp4 */,
 				F53DC7FF1EC1B26400D9C87F /* logo.mp4 */,
 				F53DC7E71EC1982200D9C87F /* player_fullScreen_iphone@2x.png */,
@@ -209,6 +212,7 @@
 				F53DC7F81EC1982200D9C87F /* Stop@2x.png in Resources */,
 				F53DC7FA1EC19E6200D9C87F /* icmpv_thumb_light@2x.png in Resources */,
 				F53DC8001EC1B26400D9C87F /* logo.mp4 in Resources */,
+				F5F8B54F1EC59708000CC225 /* 视频播放.gif in Resources */,
 				F53DC7D21EC16B3A00D9C87F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
